@@ -3,6 +3,7 @@
 - 🌱 I’m currently learning Kubernetes Infrastructure
 - 💞️ I’m looking experience
 - 📫 How to reach me ...
+- 🦆 🦆 🦆
 
 <!---
 winzaa123/winzaa123 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
